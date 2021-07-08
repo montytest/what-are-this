@@ -18,7 +18,7 @@ MC-XXXX
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply or check the box after the PR is open -->
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
-- [] Linting has passed.
+- [ ] Linting has passed.
 
 ## Other Notes
 <!-- Please include any other relevant information -->
